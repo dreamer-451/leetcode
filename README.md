@@ -31,3 +31,4 @@
 |  1122  |    数组的相对排序    |              https://leetcode.cn/problems/relative-sort-array/               |
 |  682   |     棒球比赛      |                 https://leetcode.cn/problems/baseball-game/                  |
 |  205   |     同构字符串     |               https://leetcode.cn/problems/isomorphic-strings/               |
+|  204   |     计算质数      |                  https://leetcode.cn/problems/count-primes/                  |
