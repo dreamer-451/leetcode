@@ -1,4 +1,4 @@
-# leetcode作题记录
+# LeetCode个人作题记录
 
 |   题号   |       题目       |                                       链接                                        |
 |:------:|:--------------:|:-------------------------------------------------------------------------------:|
@@ -34,3 +34,5 @@
 |  204   |      计算质数      |                   https://leetcode.cn/problems/count-primes/                    |
 |  398   |     随机数索引      |                 https://leetcode.cn/problems/random-pick-index/                 |
 |  1437  | 是否所有1都至少相隔k个元素 | https://leetcode.cn/problems/check-if-all-1s-are-at-least-length-k-places-away/ |
+|  224   |     基本计算器      |                 https://leetcode.cn/problems/basic-calculator/                  |
+|  227   |     基本计算器Ⅱ     |                https://leetcode.cn/problems/basic-calculator-ii/                |
